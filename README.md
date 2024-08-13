@@ -1,2 +1,2 @@
-# Reposit-rio-do-Adryan
-loara linda
+# Jogo do Cavalinho
+Aproveite o jogo

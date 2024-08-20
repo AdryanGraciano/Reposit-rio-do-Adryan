@@ -1,2 +1,2 @@
 # Jogo do Cavalinho
-Aproveite
+Curso GitHub ALURA
